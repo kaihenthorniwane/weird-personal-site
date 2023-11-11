@@ -26,11 +26,11 @@ html{
 }
 
 #top-half-hover{
-    top: 95%;
+    bottom: 5px;
 }
 
 #bottom-half-hover{
-    top: -5%;
+    top: -5px;
 }
 
 /* Hover Cover Start */
